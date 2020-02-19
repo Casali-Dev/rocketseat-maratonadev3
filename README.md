@@ -1,4 +1,4 @@
-<a align=center>Rocketseat MaratonaDev 3.0</a>
+<h1 align="center">Rocketseat MaratonaDev 3.0</h1>
 
 ![MaratonaDev 3.0](MaratonaDev.png)
 
