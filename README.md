@@ -1,5 +1,7 @@
 # Rocketseat MaratonaDev 3.0
 
+![MaratonaDev 3.0](MaratonaDev.png)
+
 A website to motivate people to become a blood donor, made in a 2-days [Rocketseat](https://rocketseat.com.br/)'s event.
 
 ## License
